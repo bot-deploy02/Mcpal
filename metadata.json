@@ -1,0 +1,7 @@
+{
+  "name": "MineMaster: AI Game Copilot",
+  "description": "Tactical Minecraft overlay companion powered by Gemini AI, featuring high-speed action queues and live heatmaps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
